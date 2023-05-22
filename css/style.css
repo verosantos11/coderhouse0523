@@ -20,6 +20,20 @@ header{
 header a{
     color: white;
 }
+
+/** BOOTSTRAP **/
+#intro {
+    background-image: url("../assets/img/fondo-inicio.jpg");
+    background-size: cover;
+    height: 85vh;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+.img-max-card {
+    max-width: 30em;
+    width:100%;
+  }
+/** FIN BOOTSTRAP**/
 .header-top, .header-bottom{
     display: flex;
     justify-content: space-between;
