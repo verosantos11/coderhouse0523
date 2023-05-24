@@ -33,6 +33,7 @@ header a{
     max-width: 30em;
     width:100%;
   }
+
 /** FIN BOOTSTRAP**/
 .header-top, .header-bottom{
     display: flex;
